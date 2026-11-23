@@ -20,7 +20,7 @@ xiaohongshu: https://www.xiaohongshu.com/user/profile/62c5600b00000000020030e4
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Hi! I'm Kaiyang Xu (徐恺阳), an undergraduate student at Shanghai Jiao Tong University, majoring in
+    Hi! I'm Kaiyang Xu (<span style="display: inline-block;">徐恺阳</span>), an undergraduate student at Shanghai Jiao Tong University, majoring in
     Automation (IEEE Honor Class). I expect to graduate in June 2027, and will start my Ph.D. in
     Computer Science and Technology at Shanghai Jiao Tong University and Shanghai Innovation Institute in September 2027.
     My current GPA is 3.97/4.30 (91.67/100), and I rank 1st out of 33 in my major.
