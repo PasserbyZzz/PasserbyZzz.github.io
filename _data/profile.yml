@@ -17,15 +17,23 @@ xiaohongshu: https://www.xiaohongshu.com/user/profile/62c5600b00000000020030e4
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hi! I'm Kaiyang Xu (徐恺阳), an undergraduate student at Shanghai Jiao Tong University, majoring in
+    Automation (IEEE Honor Class). I expect to graduate in June 2027, and will start my Ph.D. in
+    Computer Science and Technology at Shanghai Jiao Tong University and Shanghai Innovation Institute in September 2027.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I work on robot learning in the RL2 Lab at Shanghai Innovation Institute.
+  </p>
+  <p>
+    My research interests lie in robot learning and reinforcement learning, especially humanoid locomotion
+    and whole-body control. I co-authored MAKP, a multi-mode kicking policy for humanoid robots (ICRA 2026),
+    and worked as an RL Locomotion Intern at AGIBOT in the fall of 2026.
+  </p>
+  <p>
+    I welcome discussions and potential collaborations related to my research interests.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg?v=2
