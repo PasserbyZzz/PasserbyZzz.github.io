@@ -45,7 +45,8 @@ education:
   date: Sep. 2023 - Jun. 2027
 
 experience:
-- name: AgiBot
+- name: AGIBOT
+  logo: /assets/images/badges/agibot.png
   position: Intern
   date: Sep. 2026 - Dec. 2026
 
