@@ -12,5 +12,5 @@ images:
 <div class="p-3">
     <h5 class="mb-2">2nd World Humanoid Robot Games</h5>
     {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
-    <p class="card-text mt-2 mb-0">So glad to have met you all.</p>
+    <p class="card-text mt-2 mb-0">So glad to have met you all. Truly an unforgettable time!</p>
 </div>
