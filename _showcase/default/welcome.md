@@ -8,6 +8,6 @@ date: 2024-01-12 00:01:00 +0800
     <h2>Welcome to my Showcase!</h2>
     <hr />
     <p>
-        A collection of photos and moments from my research on humanoid robots — competitions, exhibitions, and time in the lab.
+        Here's a collection of photos and moments from my research on humanoid robots — competitions, exhibitions, and time in the lab. 😎
     </p>
 </div>
