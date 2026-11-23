@@ -33,8 +33,10 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Shanghai Jiao Tong University & Shanghai Innovation Institute
-  logo: /assets/images/badges/SII.png
+- name: >-
+    Shanghai Jiao Tong University &amp;
+    <img src="/assets/images/badges/SII.png" alt="SII" style="width:18px;vertical-align:-3px" class="ml-1 mr-1">Shanghai Innovation Institute
+  logo: /assets/images/badges/SJTU_red.png
   position: Ph.D. in Computer Science and Technology
   date: Sep. 2027 - present
 - name: Shanghai Jiao Tong University
