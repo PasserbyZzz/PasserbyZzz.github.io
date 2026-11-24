@@ -5,7 +5,7 @@
             <button type="button" data-target="#{{ include.id | slugify }}" data-slide-to="{{ forloop.index0 }}" aria-label="Show slide {{ forloop.index }}" {% if forloop.index == 1 %}class="active"{% endif %}></button>
             {% endfor %}
         </div>
-        <div class="carousel-inner" style="height: {{ include.height }};">
+        <div class="carousel-inner rounded-xl" style="height: {{ include.height }};">
             {% for item in include.images %}
             <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
                 {% if item.link %}<a href="{{ item.link }}" target="_blank">{% endif %}
