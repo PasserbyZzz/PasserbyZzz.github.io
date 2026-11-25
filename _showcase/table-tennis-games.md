@@ -5,8 +5,11 @@ date: 2026-08-26 12:00:00 +0800
 height: 295px
 images:
 - src: /assets/images/showcase/games-serve.jpg
+  tip: Taken in Aug. 2026
 - src: /assets/images/showcase/games-forehand.jpg
+  tip: Taken in Aug. 2026
 - src: /assets/images/showcase/games-backhand.jpg
+  tip: Taken in Aug. 2026
 ---
 
 <div class="p-3">
