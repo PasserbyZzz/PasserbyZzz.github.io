@@ -15,7 +15,7 @@ authors:
   - Shengcheng Fu
   - Xin Shen
   - Xiaokang Yang
-  - Yue Gao
+  - Yue Gao#
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/11697574
 ---
