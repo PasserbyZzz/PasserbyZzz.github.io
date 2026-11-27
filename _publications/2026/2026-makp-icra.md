@@ -3,7 +3,7 @@ title:          "MAKP: Multi-mode Accurate Kicking Policy for Humanoid Robots"
 date:           2026-06-01 00:01:00 +0800
 selected:       true
 pub:            "2026 IEEE International Conference on Robotics and Automation (ICRA)"
-pub_date:       "2026"
+pub_date:       ""
 authors:
   - Zheng Zhang*
   - Kaiyang Xu*
