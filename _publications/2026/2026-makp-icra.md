@@ -5,8 +5,8 @@ selected:       true
 pub:            "2026 IEEE International Conference on Robotics and Automation (ICRA)"
 pub_date:       "2026"
 authors:
-  - Zheng Zhang
-  - Kaiyang Xu
+  - Zheng Zhang*
+  - Kaiyang Xu*
   - Zhanxiang Cao
   - Yizhi Chen
   - Peng Wang
